@@ -2,7 +2,7 @@
 
 # Hi, I'm AJ (AYJAYY)
 
-## Progress Over Perfection
+**Progress Over Perfection**
 
 **Data Services · Webmaster · Social Media**
 
