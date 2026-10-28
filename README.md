@@ -3,10 +3,10 @@
 # Hi, I'm AJ (AYJAYY)
 **Data Services · Webmaster · Social Media**
 
-**Progress Over Perfection**
-
 ![IAAP Member](https://img.shields.io/badge/IAAP-Member-0b5fa5?style=for-the-badge)
 ![Location: Lowell, MA](https://img.shields.io/badge/Lowell-MA-1f2328?style=for-the-badge)
+
+**Progress Over Perfection**
 
 </div>
 
