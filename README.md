@@ -20,7 +20,6 @@ I work at the intersection of **education technology** and **digital accessibili
 | Project | What it is | Stack |
 |---|---|---|
 | [**BadA11y**](https://github.com/AYJAYY/bada11y) | Deliberately inaccessible demo site for accessibility training and testing (Title II / Web Content Accessibility Guidelines, WCAG) | HTML, CSS |
-| [**ClaudeA11y**](https://github.com/AYJAYY/claudea11y) | Accessibility enforcement plugin for Claude Code — WCAG 2.1 AA guardrails via hooks, audit agent, and auto-remediation | Claude Code, Shell |
 | [**emdee**](https://github.com/AYJAYY/emdee) | Fast, offline Markdown viewer for Windows, Linux & Android — no accounts or tracking | Tauri, React, Rust |
 | [**Lowell Weather**](https://lowellweather.com) | Live conditions and forecasts for Greater Lowell, MA — a broadcast-style weather display | HTML, JS |
 | [**Lowell Weekender**](https://lowellweekender.com) | Free community events guide for Greater Lowell, MA — printable broadsheet + social media cards | HTML, JS, Python |
